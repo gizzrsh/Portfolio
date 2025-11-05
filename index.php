@@ -43,7 +43,7 @@
                         <p class="welcome__text">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.</p>
                         <a href="#" class="welcome__button">Download Resume</a>
                     </div>
-                    <div class="welcome__image"><img src="/assets/image/welcome/avatare.png" alt="Аватар"></div>
+                    <div class="welcome__image"><img src="./assets/image/welcome/avatar.jpg" alt="Аватар"></div>
                 </div>
             </section>
             <section class="page__posts">
@@ -88,9 +88,9 @@
 
                             <div class="work__item-inner">
                                 <div class="work__item">
-                                    <div class="work__image"><img src="/assets/image/works/1.png" alt=""></div>
+                                    <div class="work__image"><img src="./assets/image/works/1.png" alt=""></div>
                                     <div class="work__content">
-                                        <a href="./works/designing-dashboards.html" class="work__title">Designing Dashboards</a>
+                                        <a href="./works/designing-dashboards.php" class="work__title">Designing Dashboards</a>
                                         <div class="work__info">
                                             <div class="work__data">2020</div>
                                             <div class="work__program">Dashboard</div>
@@ -102,7 +102,7 @@
                             
                             <div class="work__item-inner">
                                 <div class="work__item">
-                                    <div class="work__image"><img src="/assets/image/works/2.png" alt=""></div>
+                                    <div class="work__image"><img src="./assets/image/works/2.png" alt=""></div>
                                     <div class="work__content">
                                         <a href="#" class="work__title">Vibrant Portraits of 2020</a>
                                         <div class="work__info">
@@ -116,7 +116,7 @@
 
                             <div class="work__item-inner">
                                 <div class="work__item">
-                                    <div class="work__image"><img src="/assets/image/works/3.png" alt=""></div>
+                                    <div class="work__image"><img src="./assets/image/works/3.png" alt=""></div>
                                     <div class="work__content">
                                         <a href="#" class="work__title">36 Days of Malayalam type</a>
                                         <div class="work__info">
@@ -137,10 +137,10 @@
             <div class="footer__container">
                 <div class="footer__content">
                     <div class="footer__icons">
-                        <a href="#" class="footer__icons-link"><img src="/assets/image/footer/fb.svg" alt="facebook"></a>
-                        <a href="#" class="footer__icons-link"><img src="/assets/image/footer/insta.svg" alt="instagram"></a>
-                        <a href="#" class="footer__icons-link"><img src="/assets/image/footer/twitter.svg" alt="twitter"></a>
-                        <a href="#" class="footer__icons-link"><img src="/assets/image/footer/Linkedin.svg" alt="linkedin"></a>
+                        <a href="#" class="footer__icons-link"><img src="./assets/image/footer/fb.svg" alt="facebook"></a>
+                        <a href="#" class="footer__icons-link"><img src="./assets/image/footer/insta.svg" alt="instagram"></a>
+                        <a href="#" class="footer__icons-link"><img src="./assets/image/footer/twitter.svg" alt="twitter"></a>
+                        <a href="#" class="footer__icons-link"><img src="./assets/image/footer/Linkedin.svg" alt="linkedin"></a>
                     </div>
                     <div class="footer__copyright">Copyright ©2020 All rights reserved </div>
                 </div>
@@ -149,6 +149,6 @@
     </div>
 
     <!-- javascript -->
-    <script src="/assets/js/main.js"></script>
+    <script src="./assets/js/main.js"></script>
 </body>
 </html>
