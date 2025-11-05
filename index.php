@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;900&display=swap" rel="stylesheet">
@@ -27,9 +27,9 @@
                     </div>
                     <nav class="menu__body">
                         <ul class="menu__list">
-                            <li class="menu__item"><a href="work.html" class="menu__link">Works</a></li>
-                            <li class="menu__item"><a href="blog.html" class="menu__link">Blog</a></li>
-                            <li class="menu__item"><a href="index.html" class="menu__link">Contact</a></li>
+                            <li class="menu__item"><a href="work.php" class="menu__link">Works</a></li>
+                            <li class="menu__item"><a href="blog.php" class="menu__link">Blog</a></li>
+                            <li class="menu__item"><a href="contact.php" class="menu__link">Contact</a></li>
                         </ul>
                     </nav>
                 </div>
